@@ -1,0 +1,25 @@
+{
+	"name": "mern-blog",
+	"version": "1.0.0",
+	"description": "",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"div": "nodemon server/index.js",
+		"start": "node server/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/OmarSherif1998/MERN-Blog.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/OmarSherif1998/MERN-Blog/issues"
+	},
+	"homepage": "https://github.com/OmarSherif1998/MERN-Blog#readme",
+	"dependencies": {
+		"express": "^4.19.2",
+		"nodemon": "^3.1.0"
+	}
+}
